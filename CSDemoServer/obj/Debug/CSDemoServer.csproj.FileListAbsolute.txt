@@ -1,0 +1,8 @@
+C:\unity\FightOver\CSDemoServer\bin\Debug\CSDemoServer.exe.config
+C:\unity\FightOver\CSDemoServer\bin\Debug\CSDemoServer.exe
+C:\unity\FightOver\CSDemoServer\bin\Debug\CSDemoServer.pdb
+C:\unity\FightOver\CSDemoServer\obj\Debug\CSDemoServer.csproj.AssemblyReference.cache
+C:\unity\FightOver\CSDemoServer\obj\Debug\CSDemoServer.csproj.SuggestedBindingRedirects.cache
+C:\unity\FightOver\CSDemoServer\obj\Debug\CSDemoServer.csproj.CoreCompileInputs.cache
+C:\unity\FightOver\CSDemoServer\obj\Debug\CSDemoServer.exe
+C:\unity\FightOver\CSDemoServer\obj\Debug\CSDemoServer.pdb
